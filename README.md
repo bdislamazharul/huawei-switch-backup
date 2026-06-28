@@ -96,7 +96,7 @@ huawei-switch-backup/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/thisisazharul-debug/huawei-switch-backup/huawei-switch-backup.git
+git clone https://github.com/bdislamazharul/huawei-switch-backup/huawei-switch-backup.git
 
 cd huawei-switch-backup
 ```
